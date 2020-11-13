@@ -1,2 +1,2 @@
 # Blogger
-Semua yang berhubungan denga blogger
+Semua yang berhubungan dengan blogger
